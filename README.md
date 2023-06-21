@@ -25,6 +25,9 @@ Average Answer Speed of the Call
 
 
 
-# Customer Retention 
+# Customer Retention Dashboard
 
+Now the client is concerned about the customer churn rate who are likely to churn. For this, we identify different KPI's for the churn analysis on the basis of demographics , payment transactions, company service type, and customer profiling.
+
+![gg](https://github.com/aksaurabh/Pwc-PowerBI-Report/assets/127668866/81b6c380-c1d9-4053-93fb-6c4f05bd26af)
 
