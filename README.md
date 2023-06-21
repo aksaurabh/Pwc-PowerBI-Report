@@ -43,14 +43,23 @@ Here, we create a dashboard on employee participation in the organization. We de
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
 number of men
+
 number of women
+
 number of leavers
+
 % employees promoted (FY21)
+
 % of women promoted
+
 % of hires men
+
 % of hires women
+
 % turnover
+
 Average performance rating: men
+
 Average Performance rating: women
 
 
