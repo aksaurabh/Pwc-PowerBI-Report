@@ -27,7 +27,34 @@ Average Answer Speed of the Call
 
 # Customer Retention Dashboard
 
-Now the client is concerned about the customer churn rate who are likely to churn. For this, we identify different KPI's for the churn analysis on the basis of demographics , payment transactions, company service type, and customer profiling.
+Now the client is concerned about the customer churn rate who are likely to churn. For this, we identify different KPI's for the churn analysis on the basis of demographics, payment transactions, company service type, and customer profiling.
+
+We have also calculated measures for the calculation of Churn Rate, Count of ( device protection, mobile protection, online backup, online security, phone services, streaming videos )
+
 
 ![gg](https://github.com/aksaurabh/Pwc-PowerBI-Report/assets/127668866/81b6c380-c1d9-4053-93fb-6c4f05bd26af)
 
+
+# HR Analytics - Diversity and Inclusivity
+
+Here, we create a dashboard on employee participation in the organization. We define the key KPIs like New Hires, Promotions, Employee Exits, and Employee Gender ratio to understand the situation of diversity and inclusivity in the workforce. Enabling diversity and eliminating gender-based stereotyping is key to a balanced workforce and company success.
+
+
+Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+number of men
+number of women
+number of leavers
+% employees promoted (FY21)
+% of women promoted
+% of hires men
+% of hires women
+% turnover
+Average performance rating: men
+Average Performance rating: women
+
+
+![Diversity   Inclusion-1](https://github.com/aksaurabh/Pwc-PowerBI-Report/assets/127668866/1529a077-295b-4cf6-951f-3e447f1ed2ea)
+
+
+![Diversity   Inclusion-1](https://github.com/aksaurabh/Pwc-PowerBI-Report/assets/127668866/3b4a9a06-4a06-4817-8808-820c387ef1ef)
