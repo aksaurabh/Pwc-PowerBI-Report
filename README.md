@@ -21,6 +21,7 @@ Topic Wise Call Report ( Calls with issues with topic-wise concerns)
 
 Average Answer Speed of the Call 
 
+![git](https://github.com/aksaurabh/Pwc-PowerBI-Report/assets/127668866/b05134fb-85b3-4e36-b650-cbb141e46279)
 
 
 
